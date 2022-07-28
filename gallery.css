@@ -1,0 +1,77 @@
+body {
+		text-align: center;
+		color: white;	
+		background-image: url("webcollege.jpg");
+		background-size: cover;
+		background-attachment: fixed;
+}
+a:hover {
+	color: white;
+  background-color: black;
+  text-decoration: none;
+  
+}
+
+.container {
+	max-width: 1200px;
+	margin:auto;
+	background: ;
+	overflow: auto;
+	margin-left: 60%;
+	position: right;
+	top: 50%;
+	left: 50%;
+}
+
+li {
+	display: inline-block;
+	margin-top: 5%;
+}
+
+li a {
+	text-decoration: none;
+	color: #fff;
+	font-size: 20px;
+	padding: 0 20px;
+	border: 1px solid #fff;
+}
+
+.cool-link: :after {
+	
+	display: block;
+	width: 0;
+	height: 2px;
+	background: #fff;
+}
+.cool-link: hover {
+	width: 100%;
+	transition: width .3s; 
+}
+
+
+
+.r1  {
+	width:500px;
+	height:500px;
+	padding: 0 10px;
+	
+}
+
+.r2{
+	width:150px;
+	height:150px;
+	padding: 0 10px;
+	
+
+}
+.r3{
+	width:500px;
+	height:500px;
+	padding: 0 10px;
+}
+
+
+h1{
+	font-size: 350%;
+	color: white;
+}
